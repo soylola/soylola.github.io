@@ -399,7 +399,7 @@ body{
 
     }
 
-    @media (max-width: 430px){
+    @media (max-width: 450px){
 
         .hero__title{
             font-size: 2rem;
@@ -414,8 +414,8 @@ body{
         }
 
         .hero__img{
-            width: 120px;
-            height: 120px;
+            width: 200px;
+            height: 200px;
             left: 150px;
             top:120px;
             position: absolute;
