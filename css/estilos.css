@@ -414,8 +414,8 @@ body{
         }
 
         .hero__img{
-            width: 90px;
-            height: 90px;
+            width: 100px;
+            height: 100px;
             left: 180px;
             top:120px;
             position: absolute;
