@@ -140,6 +140,10 @@ body{
 }
 
 /*About*/
+a{
+    color:#543C90;
+}
+
 .about{
     text-align: center;
 
@@ -265,6 +269,16 @@ body{
 }
 
 /*Media Queries*/
+
+
+@media (prefers-color-scheme: dark) {
+
+    a{
+        color:#543C90;
+    }
+}
+
+
 
 @media (max-width:800px){
     .nav__menu{
